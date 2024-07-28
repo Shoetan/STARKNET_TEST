@@ -1,0 +1,75 @@
+[
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "Hosting services like vercel are meant for those seeking ease of use and and centralized control while IPFS are for developers seeking decentralization and data intergrity",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "https://glistening-klepon-9e8844.netlify.app/",
+    "options": null
+  }
+]
